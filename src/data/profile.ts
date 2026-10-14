@@ -14,7 +14,7 @@ export const profile = {
   kofi: "https://ko-fi.com/alexbasil",
   education: [
     { place: "Egerton University", detail: "Computer Science" },
-    { place: "Moscow", detail: "Software & Full-Stack Development" },
+    { place: "Modcow", detail: "Software & Full-Stack Development" },
   ],
 } as const;
 
