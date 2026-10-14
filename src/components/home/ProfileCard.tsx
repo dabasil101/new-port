@@ -13,7 +13,7 @@ export function ProfileCard() {
   return (
     <div className="box w-full max-w-md p-6 shadow-[6px_6px_0_var(--ink)]">
       <div className="mb-5 flex items-center justify-between border-b-2 border-ink pb-4">
-        <span className="font-mono text-base font-extrabold">AB-1234</span>
+        <span className="font-mono text-base font-extrabold">ALEX BASIL NZAYWA</span>
         <span className="chip">ONLINE</span>
       </div>
       <div className="mb-5 flex flex-col items-center">
